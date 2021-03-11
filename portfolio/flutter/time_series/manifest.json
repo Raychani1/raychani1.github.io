@@ -1,11 +1,11 @@
 {
-    "name": "test_project",
-    "short_name": "test_project",
+    "name": "project",
+    "short_name": "project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Bachelor Project - User Interface for Graphical Search in Time Series",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
