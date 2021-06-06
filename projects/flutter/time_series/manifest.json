@@ -1,11 +1,11 @@
 {
-    "name": "project",
-    "short_name": "project",
+    "name": "bachelor_refactor2",
+    "short_name": "bachelor_refactor2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Bachelor Project - User Interface for Graphical Search in Time Series",
+    "description": "Whatever",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
