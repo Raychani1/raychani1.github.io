@@ -31385,7 +31385,7 @@ s=q}while(true)switch(s){case 0:l=new A.AS(A.b4(t.Gf))
 q=2
 m=t.N
 s=5
-return A.a9(l.px("POST",A.hS("http://147.175.121.239:8081/auth/signup",0,null),A.aU(["Content-Type","application/json; charset=UTF-8"],m,m),B.aT.zf(A.aU(["email",b,"password",c,"username",d],m,m),null),null),$async$azI)
+return A.a9(l.px("POST",A.hS("https://147.175.121.239:8081/auth/signup",0,null),A.aU(["Content-Type","application/json; charset=UTF-8"],m,m),B.aT.zf(A.aU(["email",b,"password",c,"username",d],m,m),null),null),$async$azI)
 case 5:n=f
 if(n.b===200)A.h8(a).hO(0,"/sign-in")
 o.push(4)
@@ -31406,7 +31406,7 @@ s=q}while(true)switch(s){case 0:l=new A.AS(A.b4(t.Gf))
 q=2
 m=t.N
 s=5
-return A.a9(l.px("POST",A.hS("http://147.175.121.239:8081/auth/login",0,null),A.aU(["Content-Type","application/json; charset=UTF-8"],m,m),B.aT.zf(A.aU(["password",b,"username",d],m,m),null),null),$async$azJ)
+return A.a9(l.px("POST",A.hS("https://147.175.121.239:8081/auth/login",0,null),A.aU(["Content-Type","application/json; charset=UTF-8"],m,m),B.aT.zf(A.aU(["password",b,"username",d],m,m),null),null),$async$azJ)
 case 5:n=f
 if(n.b===200){m=n
 A.a4_(B.aT.T5(0,A.b1c(J.l(A.aZ9(m.e).c.a,"charset")).eQ(0,m.x),null))
@@ -31432,7 +31432,7 @@ return A.a9(A.aDf(i),$async$Lh)
 case 3:h=c
 g=new A.AS(A.b4(t.Gf))
 q=4
-m=A.hS("http://147.175.121.239:8081/auth/logout",0,null)
+m=A.hS("https://147.175.121.239:8081/auth/logout",0,null)
 l=t.N
 k=A.aU(["Content-Type","application/json; charset=UTF-8"],l,l)
 j=h
