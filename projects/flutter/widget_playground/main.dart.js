@@ -31406,7 +31406,7 @@ s=q}while(true)switch(s){case 0:l=new A.AS(A.b4(t.Gf))
 q=2
 m=t.N
 s=5
-return A.a9(l.px("POST",A.hS("https://147.175.121.239:8081/auth/login",0,null),A.aU(["Content-Type","application/json; charset=UTF-8"],m,m),B.aT.zf(A.aU(["password",b,"username",d],m,m),null),null),$async$azJ)
+return A.a9(l.px("POST",A.hS("https://147.175.121.239:8081/auth/login/",0,null),A.aU(["Content-Type","application/json; charset=UTF-8"],m,m),B.aT.zf(A.aU(["password",b,"username",d],m,m),null),null),$async$azJ)
 case 5:n=f
 if(n.b===200){m=n
 A.a4_(B.aT.T5(0,A.b1c(J.l(A.aZ9(m.e).c.a,"charset")).eQ(0,m.x),null))
